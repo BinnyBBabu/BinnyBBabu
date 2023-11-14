@@ -3,7 +3,7 @@ Welcome to my DevOps Engineer portfolio! I'm passionate about automation, infras
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/binny-b-babu-7013453906/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@astaTechDaily/videos) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/binny-b-babu-7013453906/) [![YouTube]([https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@astaTechDaily/videos](https://www.youtube.com/channel/UC4b8TRDy6AcFKoVnITi4aIQ)) 
 
 ## 📚 Poject Blog Posts:
 1. [A Netflix Clone Project with Jenkins CI/CD & Monitoring](https://www.linkedin.com/posts/binny-b-babu-7013453906_devops-continuousintegration-continuousdelivery-activity-7123077968368717824-9g10?utm_source=share&utm_medium=member_desktop) - Elevating DevSecOps
